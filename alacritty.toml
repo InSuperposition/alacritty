@@ -1,0 +1,13 @@
+import = ["~/.config/alacritty/theme/themes/Cobalt2.toml"]
+
+[env]
+term = "xterm-256color"
+
+[font]
+bold = { family = "Hasklug Nerd Font Mono", style = "Bold" }
+bold_italic = { family = "Hasklug Nerd Font Mono", style = "Bold Italic" }
+italic = { family = "Hasklug Nerd Font Mono", style = "Italic" }
+normal = { family = "Hasklug Nerd Font Mono", style = "Regular" }
+size = 16
+
+[window]
