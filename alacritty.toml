@@ -4,10 +4,10 @@ import = ["~/.config/alacritty/theme/themes/Cobalt2.toml"]
 term = "xterm-256color"
 
 [font]
-bold = { family = "Hasklug Nerd Font Mono", style = "Bold" }
-bold_italic = { family = "Hasklug Nerd Font Mono", style = "Bold Italic" }
-italic = { family = "Hasklug Nerd Font Mono", style = "Italic" }
-normal = { family = "Hasklug Nerd Font Mono", style = "Regular" }
+bold = { family = "MesloLGMDZ Nerd Font", style = "Bold" }
+bold_italic = { family = "MesloLGMDZ Nerd Font", style = "Bold Italic" }
+italic = { family = "MesloLGMDZ Nerd Font", style = "Italic" }
+normal = { family = "MesloLGMDZ Nerd Font", style = "Regular" }
 size = 16
 
 [window]
