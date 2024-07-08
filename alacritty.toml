@@ -1,4 +1,4 @@
-import = ["~/.config/alacritty/theme/themes/Cobalt2.toml"]
+import = ["~/.config/alacritty/alacritty-theme/themes/Cobalt2.toml"]
 
 [env]
 term = "xterm-256color"
